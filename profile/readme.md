@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="hexbear-code-op-sml.png" />
+  <img src="assets\hexbear-code-op-sml.png" />
 </p>
-
 
 # Hexbear Code-Op
 
